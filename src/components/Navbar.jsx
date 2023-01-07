@@ -33,7 +33,7 @@ function Navbar() {
           <Link to="/exchanges">exchanges</Link>
         </Menu.Item>{' '}
         <Menu.Item key="4" icon={<BulbOutlined />}>
-          <Link to="/new ">News</Link>
+          <Link to="/news ">News</Link>
         </Menu.Item>
       </Menu>
     </div>
